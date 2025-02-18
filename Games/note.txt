@@ -1,0 +1,1 @@
+To run games in this folder, download Python and ursina engine
