@@ -1,7 +1,6 @@
 import sys
 import socket
 from datetime import datetime
-import time
 
 def scan(port):
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
